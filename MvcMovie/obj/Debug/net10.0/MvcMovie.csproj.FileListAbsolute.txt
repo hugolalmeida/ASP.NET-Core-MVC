@@ -351,3 +351,4 @@ C:\Users\hugog\OneDrive\Área de Trabalho\ASP.NET-Core-MVC\MvcMovie\bin\Debug\ne
 C:\Users\hugog\OneDrive\Área de Trabalho\ASP.NET-Core-MVC\MvcMovie\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\hugog\OneDrive\Área de Trabalho\ASP.NET-Core-MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\hugog\OneDrive\Área de Trabalho\ASP.NET-Core-MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\hugog\OneDrive\Área de Trabalho\ASP.NET-Core-MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json

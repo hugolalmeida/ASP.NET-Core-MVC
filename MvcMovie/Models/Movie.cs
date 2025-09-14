@@ -55,6 +55,30 @@ public static class SeedData
             context.Movie.AddRange(
                 new Movie
                 {
+                    Title = "Shrek",
+                    ReleaseDate = DateTime.Parse("2001-2-12"),
+                    Genre = "Action",
+                    Rating = "R",
+                    Price = 1.99M
+                },
+                new Movie
+                {
+                    Title = "How to Train Your Dragon",
+                    ReleaseDate = DateTime.Parse("2010-2-12"),
+                    Genre = "Action",
+                    Rating = "R",
+                    Price = 1.99M
+                },
+                new Movie
+                {
+                    Title = "Mission: Impossible",
+                    ReleaseDate = DateTime.Parse("1996-2-12"),
+                    Genre = "Action",
+                    Rating = "R",
+                    Price = 1.99M
+                },
+                new Movie
+                {
                     Title = "When Harry Met Sally",
                     ReleaseDate = DateTime.Parse("1989-2-12"),
                     Genre = "Romantic Comedy",
@@ -97,4 +121,5 @@ public class MovieGenreViewModel
     public SelectList? Genres { get; set; }
     public string? MovieGenre { get; set; }
     public string? SearchString { get; set; }
+    public int? SearchYear { get; set; }
 }
